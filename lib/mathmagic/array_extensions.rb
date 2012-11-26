@@ -1,4 +1,4 @@
-class Array
+class ArrayExtensions
 
 	def sum
 		inject(:+)

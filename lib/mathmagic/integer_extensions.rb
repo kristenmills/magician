@@ -1,4 +1,4 @@
-class Integer
+class IntegerExtensions
 
 	def factorial
 		(1..self).inject(:*)

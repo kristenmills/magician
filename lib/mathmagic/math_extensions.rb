@@ -1,4 +1,4 @@
-module Math
+module MathExtensions
 
 	def permutations(n, k)
 		return n.factorial / (n-k).factorial
